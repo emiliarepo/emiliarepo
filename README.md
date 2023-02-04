@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **Scala**
 
-- 👨‍💻 All of my projects are available at [https://emialis.com](https://emialis.com)
-
 - 📫 How to reach me **hi [shift + 2] emialis.com**
 
-- ⚡ Fun fact **🍌**
+- ⚡ Fun fact: **🍌**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
