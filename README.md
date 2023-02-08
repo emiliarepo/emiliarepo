@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emilia</h1>
 <h3 align="center">Computer Science student @ Aalto University</h3>
 
-- 🔭 I’m currently working on **SushiSearch**
-
-- 🌱 I’m currently learning **Full Stack Development**
-
-- 📫 How to reach me **emilia.repo [shift+2] tietokilta.fi**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/emialis_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emialis_" height="30" width="40" /></a>
